@@ -1,0 +1,20 @@
+Test Case 1: Normal Input
+Favorite Food: Pizza
+Favorite Color: Blue
+Expected Result: Program accepts the input and displays the information.
+
+
+Test Case 2: Different Normal Input
+Favorite Food: Biryani
+Favorite Color: Green
+Expected Result: Program accepts the input and displays the information.
+
+
+Test Case 3: Empty Food Input
+Favorite Food: [Press Enter]
+Expected Result: Program displays "Please enter a valid food!" and asks again.
+
+
+Test Case 4: Empty Color Input
+Favorite Color: [Press Enter]
+Expected Result: Program displays "Please enter a valid color!" and asks again.
