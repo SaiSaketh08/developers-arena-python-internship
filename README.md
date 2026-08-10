@@ -34,5 +34,23 @@ The Personal Information Manager stores basic personal information, asks the use
 3. Open the terminal.
 4. Run the following command:
 
+## Sample Output
+
+```text
+========================================
+        PERSONAL INFORMATION
+========================================
+
+Name: Sai Saketh
+Age: 17 years (204 months old)
+City: Hyderabad
+Hobby: Cricket
+Favorite Food: pizza
+Favorite Color: blue
+
+========================================
+Thanks for using this program!
+========================================
+
 ```text
 python personal_info.py
