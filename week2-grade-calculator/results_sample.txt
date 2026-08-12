@@ -1,0 +1,19 @@
+==================================================
+                    RESULTS SUMMARY
+==================================================
+Name                 |    Avg | Grade | Comment
+----------------------------------------------------------------------
+Saketh               |  87.50 |   B   | Very Good! You are doing well.
+Rahul                |  76.25 |   C   | Good. Room for improvement.
+
+==================================================
+                CLASS STATISTICS
+==================================================
+Total Students:   2
+Class Average:    81.88
+Highest Average:  87.50 (Saketh)
+Lowest Average:   76.25 (Rahul)
+
+==================================================
+Thank you for using the Student Grade Calculator!
+==================================================
